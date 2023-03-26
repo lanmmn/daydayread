@@ -1,2 +1,2 @@
 # daydayread
-A repository stored books
+A repository stored books.
